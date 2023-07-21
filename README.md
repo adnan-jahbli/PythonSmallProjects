@@ -1,0 +1,1 @@
+This repository was created to practice Python programming language by implementing some small projects.
